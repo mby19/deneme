@@ -1,1 +1,5 @@
 test ediliyor.
+
+test 2 yapıldı.
+commit atıldı.
+
